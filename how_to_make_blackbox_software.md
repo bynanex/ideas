@@ -2,14 +2,17 @@ How to make blackbox software
 
 # Import 
 [lazy_importer](https://github.com/JustasMasiulis/lazy_importer)
+
 [t1ha hash](https://github.com/lurumdare/ScyllaHideDetector/tree/hide/winapi_hash)
 
 ## API monitoring
 [API Monitor](http://www.rohitab.com/apimonitor)
+
 [SpyStudio](https://www.nektra.com/products/spystudio-api-monitor/)
 
 # Hide strings
 [xorstr](https://github.com/JustasMasiulis/xorstr)
+
 [ITHare STRLIT](https://github.com/ITHare/kscope/blob/master/src/kscope.h#L822)
 
 # Self Remapping Code
@@ -27,6 +30,7 @@ PEP
 
 # Obfuscation
 [obfy](https://github.com/fritzone/obfy)
+
 [kscope](https://github.com/ITHare/kscope)
 
 # Prevent inject
