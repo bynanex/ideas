@@ -12,16 +12,22 @@ How to make blackbox software
 
 # Hide strings
 [xorstr](https://github.com/JustasMasiulis/xorstr)
+
 [Super Hide String](https://github.com/XShar/Super_Hide_String)
+
 [ITHare STRLIT](https://github.com/ITHare/kscope/blob/master/src/kscope.h#L822)
 # Self Remapping Code
 [Self Remapping Code](https://github.com/changeofpace/Self-Remapping-Code)
 
 # Virtualization
 VMProtect
+
 Themida
+
 Enigma
+
 Armored
+
 PEP
 
 # Trash Gen
